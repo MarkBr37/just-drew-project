@@ -1,0 +1,32 @@
+.profile-image-box {
+  display: inline-block;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.profile-image-box .profile-image {
+  height: 100%;
+  /* width: 100px; */
+  /* margin-left: -50%; */
+}
+
+.row .name {
+  margin: 10px 0 0 5px;
+}
+
+.three-dots:after {
+  float: right;
+  cursor: pointer;
+  content: "\2807";
+  font-size: 30px;
+  padding: 0 5px;
+}
+
+.small-btn {
+  font-size: 0.9rem !important;
+}
+
+/* mobile */

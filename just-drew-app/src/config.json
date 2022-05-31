@@ -1,0 +1,10 @@
+{
+   "apiUrl":"http://localhost/server-of-justdrew/",
+   "checkUser":"check_user.php",
+   "getAllPosts":"get/get_all_posts.php",
+   "getPost":"get/get_post.php",
+   "addPost":"add_post.php",
+   "deletePost":"delete_post.php",
+   "signIn":"signin_user.php",
+   "signUp":"signup_user.php"
+}

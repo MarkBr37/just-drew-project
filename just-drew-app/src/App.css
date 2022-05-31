@@ -1,0 +1,22 @@
+/* for the main */
+.ming-900 {
+  min-height: 900px;
+}
+/* small information text */
+.info {
+  font-size: 0.9rem;
+  color: #818182;
+}
+
+.bg-none {
+  background-color: #fff !important;
+}
+
+.edti-image {
+  width: 200px;
+}
+
+/* drop down menu */
+/* .drm { 
+  margin: 0 0 0 -1.5rem !important;
+} */
