@@ -20,12 +20,13 @@ After you finsh to install put the server-of-justdrew in xampp\htdocs\
 Start Apache and MySQL in the Control Panel
 
 # Create DB
-To create a databases go click on admin or put this in url: http://localhost/phpmyadmin/
+To create a databases click on admin or put this in url: http://localhost/phpmyadmin/
 click on the Databases in the top and create the databases
 
 # Import the databases
 After you created the databases click on it and 
-import the file form spl folder
+import the file form spl folder 
+the import butten is in the top
 
 # Install dependencies in just-drew
 npm install
